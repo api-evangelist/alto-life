@@ -1,0 +1,21 @@
+{
+  "repo": "alto-life",
+  "feeds": [
+    {
+      "source": "https://altolife.com/privacy-policy-2/",
+      "feed_url": "https://altolife.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://altolife.com/feed/",
+      "feed_url": "https://altolife.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "post_count": 6,
+  "fetched": "2026-10-03T12:30:02Z"
+}
